@@ -1,8 +1,8 @@
 - *Video Demo Link :*https://drive.google.com/drive/folders/15y7lDF1Q6UQdRQehKHdZh4V_cwOvCyAo
   
-- *Screenshots of installations & project execution :* https://github.com/sridevis15/Online-learning-platform/blob/main/Screenshots%20of%20Installation%20and%20Execution.pdf
+- *Screenshots of installations & project execution :* https://github.com/shhivvay/NM_Mernstack/blob/main/Project_screenshots.docx
 
-- *Project Documentation :* https://github.com/sridevis15/Online-learning-platform/blob/main/OLP%20Project%20Documentation.pdf
+- *Project Documentation :*https://github.com/shhivvay/NM_Mernstack/blob/main/Book%20a%20Doctor%20Documentation.docx
 
  
  
