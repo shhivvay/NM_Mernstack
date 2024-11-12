@@ -1,4 +1,13 @@
-﻿# NM_Mernstack
+- *Video Demo Link :*https://drive.google.com/drive/folders/15y7lDF1Q6UQdRQehKHdZh4V_cwOvCyAo
+  
+- *Screenshots of installations & project execution :* https://github.com/sridevis15/Online-learning-platform/blob/main/Screenshots%20of%20Installation%20and%20Execution.pdf
+
+- *Project Documentation :* https://github.com/sridevis15/Online-learning-platform/blob/main/OLP%20Project%20Documentation.pdf
+
+ 
+ 
+ 
+ # NM_Mernstack
 
 
 # Getting Started with Create React App
@@ -71,3 +80,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
